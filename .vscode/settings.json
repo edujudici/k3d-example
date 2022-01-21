@@ -1,0 +1,6 @@
+{
+    "yaml.schemas": {
+        "file:///home/eduardo.judici/.vscode/extensions/atlassian.atlascode-1.4.3/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml",
+        "https://json.schemastore.org/yamllint.json": "file:///home/eduardo.judici/projetos/aprendizado/k3d-example/pod.yaml"
+    }
+}
